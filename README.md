@@ -21,7 +21,7 @@ This project features advanced capabilities for proxy configuration management. 
 
 Sing-box subscription link:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/mahdi021zamani/Mahdi.zamani-multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## Channel and URL Performance

@@ -2,8 +2,7 @@
 base64:TUFIRElaQU1BTkkoTXVsdGkgUHJveHkp
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/BXAMbot
-//profile-web-page-url: https://github.com/4n0nymou3
+//support-url: https://@mahdione71 https://github.com/mahdi021zamani
 
 vless://%54%45%4C%45%47%52%41%4D%2D%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:1c1b:1051::1]:21614?security=&encryption=none&headerType=&type=tcp#@M4Dvpn
 
